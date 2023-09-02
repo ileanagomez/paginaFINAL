@@ -134,7 +134,7 @@ img{
 
 .cont-menu a:hover {
     text-decoration: none; color: #000000;
-    
+} 
 .opacity {
     background-color: rgba(0,0,0,0.5);
     transition: all .5s ease;
